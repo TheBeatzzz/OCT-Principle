@@ -6,6 +6,18 @@ Welcome to the OCT-Principle repository! This repository contains educational ma
 
 This repository provides interactive Google Colab notebooks that teach the fundamental concepts of OCT through code examples, simulations, and visualizations. Each notebook is designed to be self-contained and can be run directly in Google Colab.
 
+### Repository Structure
+
+```
+OCT-Principle/
+├── notebooks/          # Jupyter notebooks with interactive tutorials
+├── src/               # Python source code and utilities
+├── tests/             # Test files
+├── docs/              # Additional documentation and lessons
+├── requirements.txt   # Python dependencies
+└── README.md         # This file
+```
+
 ## 🎯 Learning Objectives
 
 By working through these materials, you will learn:
@@ -19,37 +31,37 @@ By working through these materials, you will learn:
 ## 📖 Course Structure
 
 ### 1. Introduction to OCT
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TheBeatzzz/OCT-Principle/blob/main/01_Introduction_to_OCT.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TheBeatzzz/OCT-Principle/blob/main/notebooks/01_Introduction_to_OCT.ipynb)
 
 Learn the basics of OCT, including low-coherence interferometry and the Michelson interferometer setup.
 
 ### 2. Interferometry Basics
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TheBeatzzz/OCT-Principle/blob/main/02_Interferometry_Basics.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TheBeatzzz/OCT-Principle/blob/main/notebooks/02_Interferometry_Basics.ipynb)
 
 Explore interference patterns and understand the role of coherence in OCT imaging.
 
 ### 3. Resolution and Image Quality
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TheBeatzzz/OCT-Principle/blob/main/03_Resolution_and_Image_Quality.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TheBeatzzz/OCT-Principle/blob/main/notebooks/03_Resolution_and_Image_Quality.ipynb)
 
 Study axial and lateral resolution, and learn how to optimize image quality.
 
 ### 4. Time-Domain OCT
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TheBeatzzz/OCT-Principle/blob/main/04_Time_Domain_OCT.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TheBeatzzz/OCT-Principle/blob/main/notebooks/04_Time_Domain_OCT.ipynb)
 
 Simulate Time-Domain OCT systems and understand A-scan generation.
 
 ### 5. Fourier-Domain OCT
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TheBeatzzz/OCT-Principle/blob/main/05_Fourier_Domain_OCT.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TheBeatzzz/OCT-Principle/blob/main/notebooks/05_Fourier_Domain_OCT.ipynb)
 
 Learn about Spectral-Domain and Swept-Source OCT and their advantages.
 
 ### 6. Signal Processing
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TheBeatzzz/OCT-Principle/blob/main/06_Signal_Processing.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TheBeatzzz/OCT-Principle/blob/main/notebooks/06_Signal_Processing.ipynb)
 
 Master the signal processing techniques used to create OCT images.
 
 ### 7. Applications and Examples
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TheBeatzzz/OCT-Principle/blob/main/07_Applications.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TheBeatzzz/OCT-Principle/blob/main/notebooks/07_Applications.ipynb)
 
 Explore real-world applications of OCT in ophthalmology, cardiology, and more.
 
