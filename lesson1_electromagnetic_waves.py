@@ -15,8 +15,6 @@ Key Concepts:
 
 import numpy as np
 import matplotlib.pyplot as plt
-from matplotlib.animation import FuncAnimation
-from IPython.display import HTML
 
 
 class ElectromagneticWave:
