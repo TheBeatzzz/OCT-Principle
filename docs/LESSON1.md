@@ -88,7 +88,7 @@ pip install -r requirements.txt
 ### Execute the Simulation
 
 ```bash
-python lesson1_electromagnetic_waves.py
+python src/Intro_1_electromagnetic_waves.py
 ```
 
 This will generate five demonstration plots:
@@ -104,7 +104,7 @@ This will generate five demonstration plots:
 You can also use the provided `ElectromagneticWave` class for custom simulations:
 
 ```python
-from lesson1_electromagnetic_waves import ElectromagneticWave
+from src.Intro_1_electromagnetic_waves import ElectromagneticWave
 import numpy as np
 
 # Create a wave representing red light
