@@ -30,9 +30,13 @@ By working through these materials, you will learn:
 
 ## 📖 Course Structure
 ### 0. Light as Electromagnetic Wave
+Understand the fundamental nature of light as an electromagnetic wave, including wave properties, polarization, and the electromagnetic spectrum.
+
+0.1 : Monochromatic EM wave
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TheBeatzzz/OCT-Principle/blob/main/notebooks/intro_1_EM_Wave.ipynb)
 
-Understand the fundamental nature of light as an electromagnetic wave, including wave properties, polarization, and the electromagnetic spectrum.
+0.2 : EM wave characteristics
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TheBeatzzz/OCT-Principle/blob/main/notebooks/intro_2_EM_Wave_Characteristis.ipynb)
 
 ### 1. Introduction to OCT
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TheBeatzzz/OCT-Principle/blob/main/notebooks/01_Introduction_to_OCT.ipynb)
