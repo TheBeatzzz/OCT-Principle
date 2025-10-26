@@ -1,5 +1,5 @@
 """
-Lesson 1: Demonstration and Simulation of Electromagnetic Light Wave Characteristics
+Intro 1: Demonstration and Simulation of Electromagnetic Light Wave Characteristics
 
 This lesson demonstrates the fundamental characteristics of electromagnetic waves,
 specifically focusing on light waves which are essential for understanding OCT principles.
