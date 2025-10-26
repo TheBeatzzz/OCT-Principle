@@ -29,6 +29,10 @@ By working through these materials, you will learn:
 - Real-world applications in medicine and research
 
 ## 📖 Course Structure
+### 0. Light as Electromagnetic Wave
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TheBeatzzz/OCT-Principle/blob/main/notebooks/intro_1_EM_Wave.ipynb)
+
+Understand the fundamental nature of light as an electromagnetic wave, including wave properties, polarization, and the electromagnetic spectrum.
 
 ### 1. Introduction to OCT
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TheBeatzzz/OCT-Principle/blob/main/notebooks/01_Introduction_to_OCT.ipynb)
