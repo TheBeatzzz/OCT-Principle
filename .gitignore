@@ -1,12 +1,14 @@
-# Generated plots from lessons
-*.png
-
-# Python cache
-# Python
+# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
-*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
 
 # Distribution / packaging
 .Python
@@ -30,17 +32,9 @@ wheels/
 venv/
 ENV/
 env/
-# Jupyter Notebook
-.ipynb_checkpoints
-*/.ipynb_checkpoints/*
-
-# Virtual environments
-venv/
-env/
-ENV/
 .venv
 
-# IDE
+# IDEs
 .vscode/
 .idea/
 *.swp
@@ -51,14 +45,7 @@ ENV/
 .DS_Store
 Thumbs.db
 
-# Data files (if any large datasets are added)
-*.h5
-*.hdf5
-*.mat
-*.npz
-data/
-
-# Plots and outputs (optional - uncomment if you want to ignore generated plots)
-# *.png
-# *.jpg
-# *.pdf
+# Temporary files
+*.tmp
+*.bak
+*.log
